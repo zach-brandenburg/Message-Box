@@ -1,8 +1,0 @@
-mbox-class.php: +4.5
--1/2 Header is not correctly parsed.
-
-index.php: +1.5
--1 Does not include mbox-class.php, just re-implements it.
--2.5 Static unchanging page does not allow selecting a different message.
-
-6.0 Points
